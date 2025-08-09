@@ -1,0 +1,2 @@
+
+The hierarchical clustering dendrogram reveals how the digits group into clusters based on their visual similarity. For example, digits such as '1' are grouped closely together, which is expected since '1' is a simple, vertical line. However, other digits like '8' and '9' cluster near each other, likely due to their shared circular shape, which may lead to confusion in classification. Overall, the clusters make sense for certain digits based on their structural features, but there are instances where visual similarities between distinct digits may cause misgrouping.
